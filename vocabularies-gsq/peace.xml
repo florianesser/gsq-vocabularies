@@ -1,0 +1,12 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+  <skos:Concept rdf:about="http://example.org/terminology/P">
+<skos:prefLabel xml:lang="de">Frieden</skos:prefLabel>
+<skos:notation>P</skos:notation>
+<skos:narrower>
+  <rdf:Description>
+    <skos:prefLabel xml:lang="en">world peace</skos:prefLabel>
+  </rdf:Description>
+</skos:narrower>
+  </skos:Concept>
+</rdf:RDF>
