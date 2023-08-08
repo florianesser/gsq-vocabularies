@@ -33706,7 +33706,7 @@ lith:rock
         "Unidentified rock"@en ,
         "Unknown"@en ,
         "Unknown rock"@en ;
-    skos:definition "THIS IS A TEST CHANGE A rock is a naturally-occurring solid aggregate of one or more minerals, mineraloids or, in some cases, organic material. Sediments are the unconsolidated equivalent of these. Other related materials, including some man-made materials, are included within this categorisation, along with the major classifications for meteorites."@en ;
+    skos:definition "A rock is a naturally-occurring solid aggregate of one or more minerals, mineraloids or, in some cases, organic material. Sediments are the unconsolidated equivalent of these. Other related materials, including some man-made materials, are included within this categorisation, along with the major classifications for meteorites."@en ;
     skos:exactMatch <http://resource.geosciml.org/classifier/cgi/lithology/compound_material> ;
     skos:inScheme cs: ;
     skos:notation "ROCK" ;
